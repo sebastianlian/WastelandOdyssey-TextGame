@@ -1,0 +1,6 @@
+1~Backpack~Your trusty backpack is rugged but does the job.~equip~0
+2~Note~A note that says "Went for a run. Will be back before sun down".~equip~0
+3~Bat~A bat that is a bit worn but still works.~equip~10
+4~Knife~A knife that is a bit dull but still works.~equip~20
+5~Flashlight~A flashlight that is a bit dim but still works.~equip~0
+6~MRE~A meal ready to eat.~heal~50

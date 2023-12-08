@@ -1,0 +1,1 @@
+4~Zombie~Careful! A slow moving enemy is nearby, if contact is made can deal 20 damage.~20~true

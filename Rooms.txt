@@ -1,0 +1,6 @@
+1~False~1 Inside Safe House~0~6~2~0~You fell asleep for way more than you expected. As you sit up on the couch, you stretch and look out the window. The sun is setting, better get going.~Backpack~""
+2~False~2 Outside Safe House~1~3~4~0~You open the door and step outside. As you turn around to grab the knob you see a note on the door.~Note~""
+3~False~3 Street~6~0~5~2~The street is desolate, earth is reclaiming the world you once knew. There's an abundance of vegetation overgrowing and complete silence.~Bat~""
+4~False~4 Forest~2~5~0~0~You hear small critters scavenging about and as you look up at the sky you can see clouds starting to roll in.~Knife~Zombie
+5~False~5 Abandon Store~3~0~0~4~As you glance from afar you see the door wide open and a light flashing from inside.~Flashlight~""
+6~False~6 Bridge~0~0~3~1~At the end of the bridge you see a crate...that's odd. As you inch your way closed, you lift the lid and see it is filled with supplies.~MRE~""
