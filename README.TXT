@@ -54,7 +54,7 @@ The user can equip an item by typing in "equip".
 The user can unequip an item by typing in "unequip".
 The user can view their stats by typing in "stats".
 
-**TextGame3.Items**
+**Items**
 The TextGame3.Items.txt has four elements per item:
 1. itemID (unique identifier) assigned to each item (1-6)
 2. checkedItem (boolean value that determines if the item has been picked up)
@@ -67,7 +67,7 @@ The TextGame3.Items.txt has four elements per item:
     f) 6 - TextGame3.Map
 4. itemDescription (description of the item)
 
-**TextGame3.Puzzles**
+**Puzzles**
 The puzzles.txt file has four elements per puzzle:
 1. puzzleID (unique identifier)
 2. puzzleDescription (description of the puzzle)
@@ -77,7 +77,7 @@ The puzzles.txt file has four elements per puzzle:
 7. puzzleAttempts (number of attempts the user has to answer the puzzle)
 8. puzzleStatus (boolean value that determines if the puzzle has been solved)
 
-**TextGame3.Monsters**
+**Monsters**
 The text file has four elements per monster:
 1. monsterID (unique identifier) assigned to each monster (1-6)
 2. monsterName (name of the monster)
